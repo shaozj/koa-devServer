@@ -1,0 +1,43 @@
+{
+  "name": "koa-devserver",
+  "version": "0.0.0",
+  "description": "a dev server using koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaozj/koa-devServer.git"
+  },
+  "keywords": [
+    "dev",
+    "server",
+    "koa",
+    "gulp"
+  ],
+  "author": "shaozj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaozj/koa-devServer/issues"
+  },
+  "homepage": "https://github.com/shaozj/koa-devServer#readme",
+  "devDependencies": {
+    "mocha": "^1.6",
+    "supertest": "^1.2.0"
+  },
+  "dependencies": {
+    "koa": "^3.0.1",
+    "koa-livereload": "^0.1.23",
+    "gulp-util": "^2.2.19",
+    "isarray": "0.0.1",
+    "node.extend": "^1.0.10",
+    "open": "^0.0.5",
+    "proxy-middleware": "^0.5.0",
+    "serve-index": "^1.1.4",
+    "koa-serve-static": "^1.0.0",
+    "through2": "^0.5.1",
+    "tiny-lr": "0.1.4",
+    "watch": "^0.11.0"
+  }
+}
