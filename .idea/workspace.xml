@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="381edd6c-4971-42e5-81ba-71fa8abf96f0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/koa-serve-index.js" afterPath="$PROJECT_DIR$/lib/koa-serve-index.js" />
     </list>
     <ignored path="koa-devServer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,13 +68,13 @@
       <file leaf-file-name="koa-serve-index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/koa-serve-index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07692308">
-              <caret line="577" column="20" selection-start-line="577" selection-start-column="20" selection-end-line="577" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.042510122">
+              <caret line="147" column="13" selection-start-line="147" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
               <folding>
-                <marker date="1460815533000" expanded="true" signature="5205:5396" placeholder="..." />
-                <marker date="1460815533000" expanded="true" signature="5260:5395" placeholder="..." />
-                <marker date="1460815533000" expanded="true" signature="6291:6680" placeholder="..." />
-                <marker date="1460815533000" expanded="true" signature="6433:6675" placeholder="..." />
+                <marker date="1461161624000" expanded="true" signature="5238:5429" placeholder="..." />
+                <marker date="1461161624000" expanded="true" signature="5293:5428" placeholder="..." />
+                <marker date="1461161624000" expanded="true" signature="6324:6713" placeholder="..." />
+                <marker date="1461161624000" expanded="true" signature="6466:6708" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -332,7 +332,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="829" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="829" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
@@ -423,10 +423,10 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
           <folding>
-            <marker date="1460815533000" expanded="true" signature="5205:5396" placeholder="..." />
-            <marker date="1460815533000" expanded="true" signature="5260:5395" placeholder="..." />
-            <marker date="1460815533000" expanded="true" signature="6291:6680" placeholder="..." />
-            <marker date="1460815533000" expanded="true" signature="6433:6675" placeholder="..." />
+            <marker date="1461161624000" expanded="true" signature="5238:5429" placeholder="..." />
+            <marker date="1461161624000" expanded="true" signature="5293:5428" placeholder="..." />
+            <marker date="1461161624000" expanded="true" signature="6324:6713" placeholder="..." />
+            <marker date="1461161624000" expanded="true" signature="6466:6708" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -550,13 +550,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/koa-serve-index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07692308">
-          <caret line="577" column="20" selection-start-line="577" selection-start-column="20" selection-end-line="577" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.042510122">
+          <caret line="147" column="13" selection-start-line="147" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
           <folding>
-            <marker date="1460815533000" expanded="true" signature="5205:5396" placeholder="..." />
-            <marker date="1460815533000" expanded="true" signature="5260:5395" placeholder="..." />
-            <marker date="1460815533000" expanded="true" signature="6291:6680" placeholder="..." />
-            <marker date="1460815533000" expanded="true" signature="6433:6675" placeholder="..." />
+            <marker date="1461161624000" expanded="true" signature="5238:5429" placeholder="..." />
+            <marker date="1461161624000" expanded="true" signature="5293:5428" placeholder="..." />
+            <marker date="1461161624000" expanded="true" signature="6324:6713" placeholder="..." />
+            <marker date="1461161624000" expanded="true" signature="6466:6708" placeholder="..." />
           </folding>
         </state>
       </provider>
