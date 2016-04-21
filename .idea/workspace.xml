@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="381edd6c-4971-42e5-81ba-71fa8abf96f0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/koa-serve-index.js" afterPath="$PROJECT_DIR$/lib/koa-serve-index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="koa-devServer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="koa-serve-index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="koa-serve-index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/koa-serve-index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.042510122">
-              <caret line="147" column="13" selection-start-line="147" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="164" column="8" selection-start-line="164" selection-start-column="8" selection-end-line="164" selection-end-column="8" />
               <folding>
                 <marker date="1461161624000" expanded="true" signature="5238:5429" placeholder="..." />
                 <marker date="1461161624000" expanded="true" signature="5293:5428" placeholder="..." />
@@ -77,6 +77,19 @@
                 <marker date="1461161624000" expanded="true" signature="6466:6708" placeholder="..." />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.090322584">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -246,7 +259,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../work/webFrontEnd/midway-test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../work/webFrontEnd/my-components/alert-dialog" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -550,8 +563,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/koa-serve-index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.042510122">
-          <caret line="147" column="13" selection-start-line="147" selection-start-column="0" selection-end-line="148" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="164" column="8" selection-start-line="164" selection-start-column="8" selection-end-line="164" selection-end-column="8" />
           <folding>
             <marker date="1461161624000" expanded="true" signature="5238:5429" placeholder="..." />
             <marker date="1461161624000" expanded="true" signature="5293:5428" placeholder="..." />
@@ -559,6 +572,17 @@
             <marker date="1461161624000" expanded="true" signature="6466:6708" placeholder="..." />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.090322584">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
